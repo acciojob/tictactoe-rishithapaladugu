@@ -1,5 +1,5 @@
 //your JS code here. If required.
- let player1 = "", player2 = "";
+  let player1 = "", player2 = "";
     let currentPlayer = "";
     let currentSymbol = "X";
     let gameActive = true;
